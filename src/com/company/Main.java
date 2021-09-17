@@ -44,7 +44,7 @@ public class Main {
         }
         else
             System.out.println ("There is no numbers smaller than 100");
-        
+
     }
 }
 
