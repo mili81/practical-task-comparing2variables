@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Main {
+public class Compare11 {
 
     public static void main(String[] args) {
         short numberOne = 4;

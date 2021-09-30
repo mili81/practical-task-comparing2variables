@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Salary {
     public static void main(String[] args) {
-        double hourlyRate = 8;
+        double hourlyRate = 3.5;
         double extraHourlyRate = 15;
-        // kāpēc šeit neļauj ieevadīt Rate ar komatu(5,5)? Man taču ir double variable?
+
 
         Scanner inputWorkingHours = new Scanner(System.in);
         System.out.println("Please enter Number of Working Hours a Day");
